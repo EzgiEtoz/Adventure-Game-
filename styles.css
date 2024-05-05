@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 50px;
+}
+
+h1 {
+    color: #181717;
+}
+
+#game-container {
+    margin-top: 50px;
+}
+
+#story {
+    margin-bottom: 20px;
+}
+
+.option-btn {
+    padding: 10px 20px;
+    background-color: #037b09;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    margin: 5px;
+}
+
+.option-btn:hover {
+    background-color: #037b09;
+}
