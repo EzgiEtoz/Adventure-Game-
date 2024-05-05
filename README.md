@@ -1,0 +1,1 @@
+Adventure Quest is an interactive text-based adventure game where players embark on a thrilling journey filled with choices, challenges, and exciting discoveries. Explore a mysterious world, make decisions that shape your destiny, and uncover the secrets hidden within.
